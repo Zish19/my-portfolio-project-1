@@ -1,2 +1,14 @@
-# my-portfolio-project-1
-A simple, foundational portfolio and contact page built with pure HTML to showcase introductory web development skills.
+This repository contains my first major project—a basic personal portfolio website featuring a dedicated "Contact Me" page.
+
+Creating a multi-page website (index.html and contact.html).
+
+Using basic HTML elements like lists (<ul>), tables (<table>), links (<a>), and images (<img>).
+
+Implementing a simple contact form using the <form> element.
+
+Goal: To demonstrate proficiency in structuring web content before moving on to styling with CSS.
+
+## Technologies Used
+List the technologies used in the project.
+
+HTML5 (Pure HTML)
