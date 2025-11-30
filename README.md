@@ -9,6 +9,5 @@ Implementing a simple contact form using the <form> element.
 Goal: To demonstrate proficiency in structuring web content before moving on to styling with CSS.
 
 ## Technologies Used
-List the technologies used in the project.
 
 HTML5 (Pure HTML)
